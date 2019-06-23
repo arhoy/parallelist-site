@@ -1,0 +1,24 @@
+{
+  "name": "parallelism",
+  "version": "1.0.0",
+  "description": "demo for dash-intel.com/portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch assets/sass -o assets/css"
+  },
+  "keywords": [
+    "web",
+    "development",
+    "freelance",
+    "developer",
+    "local",
+    "freelance",
+    "developer"
+  ],
+  "author": "Alex Quasar",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
